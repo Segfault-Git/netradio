@@ -1,0 +1,60 @@
+{
+    "version": 1,
+    "channels": [
+        {
+            "displayName": "Радио Мелодия (СПБ)",
+            "stream_url": "http://stream128.melodiafm.spb.ru:8000/melodia128",
+            "ext_url": "http://stream128.melodiafm.spb.ru:8000/melodia128"
+        },
+        {
+            "displayName": "Радио Шоколад",
+            "stream_url": "https://choco.hostingradio.ru:10010/fm",
+            "ext_url": "https://choco.hostingradio.ru:10010/fm"
+        },
+        {
+            "displayName": "Радио Русский Рок",
+            "stream_url": "https://rock.amgradio.ru/RusRock",
+            "ext_url": "https://rock.amgradio.ru/RusRock"
+        },
+        {
+            "displayName": "Радио Ретро Хит",
+            "stream_url": "http://air.volna.top/Retro",
+            "ext_url": "http://air.volna.top/Retro"
+        },
+        {
+            "displayName": "Хайп ФМ",
+            "stream_url": "http://air.volna.top/HypeFM",
+            "ext_url": "http://air.volna.top/HypeFM"
+        },
+        {
+            "displayName": "Русское Радио",
+            "stream_url": "https://rusradio.hostingradio.ru/rusradio128.mp3",
+            "ext_url": "https://rusradio.hostingradio.ru/rusradio128.mp3"
+        },
+        {
+            "displayName": "Вести ФМ",
+            "stream_url": "http://icecast.vgtrk.cdnvideo.ru/vestifm_mp3_128kbps",
+            "ext_url": "http://icecast.vgtrk.cdnvideo.ru/vestifm_mp3_128kbps"
+        },
+        {
+            "displayName": "Дорожное Радио",
+            "stream_url": "https://dorognoe.hostingradio.ru:8000/dorognoe",
+            "ext_url": "https://dorognoe.hostingradio.ru:8000/dorognoe"
+        },
+        {
+            "displayName": "Novoe Radio",
+            "stream_url": "http://icecast.newradio.cdnvideo.ru/newradio3",
+            "ext_url": "http://icecast.newradio.cdnvideo.ru/newradio3"
+        },
+        {
+            "displayName": "Авторадио",
+            "stream_url": "https://pub0301.101.ru:8443/stream/air/mp3/256/100",
+            "ext_url": "https://pub0301.101.ru:8443/stream/air/mp3/256/100"
+        },
+        {
+            "displayName": "Европа Плюс",
+            "stream_url": "http://ep128.hostingradio.ru:8030/ep128",
+            "ext_url": "http://ep128.hostingradio.ru:8030/ep128"
+        }
+    ]
+}
